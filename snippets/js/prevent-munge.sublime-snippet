@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[/**
+ * @preventMunge
+ */
+
+ 'use strict';$0
+]]></content>
+    <tabTrigger>pmun</tabTrigger>
+    <scope>source.js</scope>
+    <description>A comment to prevent munge in browserify</description>
+</snippet>
