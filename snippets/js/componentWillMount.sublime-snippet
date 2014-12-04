@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-componentWillMount: function() {
+componentWillMount: function () {
 	${1}
 },
 ]]></content>

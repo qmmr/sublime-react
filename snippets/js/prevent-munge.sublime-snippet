@@ -1,9 +1,5 @@
 <snippet>
-    <content><![CDATA[/**
- * @preventMunge
- */
-
- 'use strict';$0
+    <content><![CDATA[/** @preventMunge */
 ]]></content>
     <tabTrigger>pmun</tabTrigger>
     <scope>source.js</scope>

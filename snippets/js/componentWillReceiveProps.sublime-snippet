@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-componentWillReceiveProps: function(nextProps) {
+componentWillReceiveProps: function (nextProps) {
 	${1}
 },
 ]]></content>
