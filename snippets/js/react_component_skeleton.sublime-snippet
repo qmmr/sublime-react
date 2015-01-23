@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+
+export React.createClass({
+
+	render() {
+		return (
+			${1:<div />}
+		);
+	}
+
+});
+]]></content>
+    <tabTrigger>rcs</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: component skeleton</description>
+</snippet>
